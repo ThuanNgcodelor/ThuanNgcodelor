@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Thuận Nguyễn</h1>
+<h1 align="center">Hi, I'm David  Nguyen</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
