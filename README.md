@@ -1,6 +1,3 @@
-<h1 align="center">👋 Hi, I'm David Nguyen</h1>
-<h3 align="center">💻 Backend Developer | ☁️ Microservices</h3>
-
 <p align="center">
   <a href="https://github.com/ThuanNgcodelor">
     <img src="https://img.shields.io/github/followers/ThuanNgcodelor?label=Follow&style=social" alt="GitHub followers">
