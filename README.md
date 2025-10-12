@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there, I'm David Nguyen</h1>
-<h3 align="center">💻 Backend & Game Developer | ☁️ Microservices Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm David Nguyen</h1>
+<h3 align="center">💻 Backend Developer | ☁️ Microservices</h3>
 
 <p align="center">
   <a href="https://github.com/ThuanNgcodelor">
@@ -44,4 +44,4 @@
 
 ---
 
-<p align="center">✨ <i>Thanks for visiting my profile!</i> ✨</p>
+<p align="center"><i>Thanks for visiting my profile!</i> </p>
