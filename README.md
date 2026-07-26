@@ -41,29 +41,5 @@
 
 ---
 
-## Projects
-
-- **BookingBase**: Enterprise booking system with Java/Spring Boot backend and React frontend.
-- **Microservices**: Designed service boundaries, event-driven flows, and Redis/Kafka integration.
-- **Data Automation**: Built data import/export and reporting pipelines for HR processes.
-
-## How to improve your README
-
-1. Use a clear title and short introduction.
-2. Group technology badges in one or two rows.
-3. Add a short "About Me" section with your core strengths.
-4. Include a small project or achievement list.
-5. Keep the layout clean with separators and centered content.
-
-## Git and commit tips
-
-- You do not need to clone the README file separately if it already exists in the repo.
-- Edit `README.md` directly in the repository and commit the changes.
-- Use meaningful commit messages, for example:
-  - `docs: refresh README layout and badges`
-  - `chore: add profile README with project highlights`
-  - `fix: update LinkedIn badge link`
-
----
 
 <p align="center"><i>Thanks for visiting my profile!</i></p>
