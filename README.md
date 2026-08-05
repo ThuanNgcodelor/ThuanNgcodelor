@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Always+learning+new+things;Building+reliable+backend+systems;Designing+clean+APIs+and+data+models;Java+%7C+C%23+%7C+Microservices" alt="Typing animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ThuanNgcodelor">
     <img src="https://img.shields.io/github/followers/ThuanNgcodelor?label=GitHub&style=flat-square&logo=github" alt="GitHub followers" />
   </a>
