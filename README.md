@@ -8,7 +8,10 @@
 </p>
 
 <h1 align="center">Hi, I'm David Nguyen</h1>
-<p align="center"><i>Software Engineer | Java &amp; C# | Backend, Microservices, Databases</i></p>
+
+<p align="center">
+  <i>Software Engineer | Java &amp; C# | Backend, Microservices, Databases</i>
+</p>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="Coding cat" />
@@ -41,5 +44,6 @@
 
 ---
 
-
-<p align="center"><i>Thanks for visiting my profile!</i></p>
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
