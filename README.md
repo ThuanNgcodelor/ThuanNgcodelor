@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/thu%E1%BA%ADn-nguy%E1%BB%85n-undefined-65a0332b6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://www.facebook.com/ThunN.417">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
