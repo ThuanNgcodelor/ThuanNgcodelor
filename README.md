@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="./assets/header.png" alt="Developer tools banner" width="100%" />
+</p>
+
 <h1 align="center">David Nguyen</h1>
 
 <p align="center">
-  <b>Software Engineer</b> focused on backend systems, APIs, microservices, and databases.
+  <b>Software Engineer</b> | Java &amp; C# | Backend, Microservices, Databases
 </p>
 
 <p align="center">
@@ -47,4 +51,8 @@ I enjoy building reliable backend services with clean APIs, practical architectu
 
 <p align="center">
   Thanks for visiting my profile.
+</p>
+
+<p align="center">
+  <img src="./assets/bottom-up.svg" alt="Welcome to my profile" width="100%" />
 </p>
