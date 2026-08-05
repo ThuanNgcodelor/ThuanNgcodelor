@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/bottom-up.svg" alt="Welcome to my profile" width="100%" />
+</p>
+
+<p align="center">
   <img src="./assets/header.png" alt="Developer tools banner" width="100%" />
 </p>
 
@@ -51,8 +55,4 @@ I enjoy building reliable backend services with clean APIs, practical architectu
 
 <p align="center">
   Thanks for visiting my profile.
-</p>
-
-<p align="center">
-  <img src="./assets/bottom-up.svg" alt="Welcome to my profile" width="100%" />
 </p>
