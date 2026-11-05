@@ -38,10 +38,11 @@
 
 I enjoy building reliable backend services with clean APIs, practical architecture, and data models that are easy to maintain.
 
-- Main stack: Java, C#, Spring Boot, ASP.NET Core
-- Backend focus: REST APIs, microservices, authentication, data processing
-- Data tools: MySQL, SQL Server, Redis, Kafka
-- Working style: simple design, clear code, and steady improvement
+- Main stack: Java, C#, Js.
+- Frameworks & Libraries: Spring Boot, ASP.NET Core, React.
+- Backend focus: REST APIs, microservices, authentication, data processing.
+- Data tools: MySQL, SQL Server, Redis, Kafka.
+- Working style: Simple design, clear code, and steady improvement.
 
 ## Tech Stack
 
